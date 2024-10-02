@@ -1,7 +1,6 @@
 # MarketPlus
 MarketPlus is a Market automation application for school project.
 
-Screenshots
 ![Screenshot_1](https://github.com/user-attachments/assets/c9c4a254-42f5-4557-8396-60950ea6a9da)
 ![Screenshot_2](https://github.com/user-attachments/assets/f396ab19-cd14-4e8f-8f09-76bfe192de51)
 ![Screenshot_3](https://github.com/user-attachments/assets/708bf461-a253-44eb-b6ec-acc453170e61)
